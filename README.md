@@ -8,4 +8,4 @@ The modification are :
 - scss to css
 - include as a file the font called Minecraftia (created by [Andrew Tyler](https://www.AndrewTyler.net))
 
-![mmm_preview](mmm_preview.png)
+![mmm_preview](img/mmm_preview.png)
